@@ -37,7 +37,7 @@ export default function login() {
                     <a className="flex items-center space-x-3 rtl:space-x-reverse justify-center">
                         <img src="/assets/ba.png" className="h-20 w-17" alt="Logo" />
                         <span className="self-center text-4xl font-semibold whitespace-nowrap dark:text-black">
-                            Booking | <span style={{ color: '#0089F7' }}>BA</span>
+                            Bookingkingking | <span style={{ color: '#0089F7' }}>Albert</span>
                         </span>
                     </a>
                     <div className="mt-6">
